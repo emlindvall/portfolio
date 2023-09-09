@@ -1,0 +1,49 @@
+.about-container  {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  align-content: center;
+  gap: 50px;
+  margin-top: 180vh;
+  padding-top: 50px;
+}
+
+.png-em {
+  height: 45vh;
+}
+
+.about-right-subcontainer {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: left;
+  width: 43vw;
+}
+
+.about-header {
+  margin-bottom: 0px;
+  font-size: 3em;
+  font-weight: 200;
+  color: #F8F8F8;
+}
+
+.text-em  {
+  height: 42px;
+  margin: 2px 5px 0px 0px;
+}
+
+.about-right, .about-left {
+  margin-top: 15px;
+  font-size: 0.85em;
+  font-weight: 200;
+  font-weight: 200;
+  color: #9B9B9B;
+}
+
+.about-right  {
+  text-align: right;
+}
+
+.about-logo-at  {
+  height: 12px;
+}

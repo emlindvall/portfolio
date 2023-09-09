@@ -1,0 +1,35 @@
+.home-top-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  margin-top: 10px;
+}
+
+.home-header-container  {
+  width: 55vw;
+}
+
+.home-header  {
+  margin-top: 20px;
+  font-size: 3em;
+  font-weight: 200;
+  color: #F8F8F8;
+  line-height: 95%;
+}
+
+.home-description-container {
+  width: 20vw;
+  text-align: right;
+}
+
+.home-description {
+  margin-top: 25px;
+  font-size: 0.85em;
+  font-weight: 200;
+  color: #F8F8F8;
+}
+
+.text-em-lindvall {
+  height: 42px;
+  margin: 1px 5px 0px 0px;
+}

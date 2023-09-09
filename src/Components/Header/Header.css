@@ -1,0 +1,46 @@
+.header-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding-bottom: 20px;
+  text-align: left;
+  font-size: .85em;
+  border-bottom: 2px #292929 solid;
+}
+
+.header-subcontainer  {
+  width: 13%; 
+  min-width: 125px;
+}
+
+.nav-container  {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+#right {
+  text-align: right;
+}
+
+.header-id  {
+  margin: 0vh 0vw .75vh 0vw;
+  color: #9B9B9B;
+  font-weight: 200;
+}
+
+.header-text  {
+  margin: 2px;
+  color: #F8F8F8;
+  font-weight: 200;
+}
+
+.header-at-container  {
+  display: flex;
+  flex-direction: row;
+  gap: 3px;
+}
+
+.header-logo-at {
+  height: 12px;
+}

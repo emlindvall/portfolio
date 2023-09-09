@@ -1,0 +1,21 @@
+.story1-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin-top: 35vh;
+  color: #F8F8F8;
+}
+
+.story-header {
+  margin: 0;
+  font-size: 3em;
+  font-weight: 200;
+}
+
+.story-text {
+  text-align: center;
+  width: 50vw;
+  margin: 0;
+  font-weight: 200;
+}
