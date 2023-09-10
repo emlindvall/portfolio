@@ -1,6 +1,8 @@
 import React, { useState, useEffect } from 'react';
 import About from '../About/About';
 import Story1 from '../Story1/Story1';
+import Story2 from '../Story2/Story2';
+import Story3 from '../Story3/Story3';
 import Contact from '../Contact/Contact';
 import Experience from '../Experience/Experience';
 import Portfolio from '../Portfolio/Portfolio';
@@ -21,6 +23,9 @@ const Home = () => {
       </div>
       <About/>
       <Story1/>
+      <Story2/>
+      <Story3/>
+      <Contact/>
     </div>
   )
 }

@@ -19,7 +19,7 @@ const App = () => {
         <Routes>
           <Route path="/acquired-taste" element={<AcquiredTaste/>}/>
         </Routes>
-        {/* <Footer/> */}
+        <Footer/>
     </div>
   )
 }

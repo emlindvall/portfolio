@@ -40,7 +40,7 @@ const Footer = () => {
               <p className="header-text">EXPERIENCE</p>
             </NavLink>
           </div>
-          <div className="nav-subcontainer">
+          <div className="nav-subcontainer" id="right">
             <NavLink to="#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">PORTFOLIO</p>
             </NavLink>

@@ -1,4 +1,4 @@
-.story1-container {
+.story-container {
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -8,14 +8,16 @@
 }
 
 .story-header {
-  margin: 0;
+  text-align: center;
+  margin: 0px 0px 15px 0px;
   font-size: 3em;
   font-weight: 200;
+  line-height: 90%;
 }
 
 .story-text {
   text-align: center;
-  width: 50vw;
+  width: 48vw;
   margin: 0;
   font-weight: 200;
 }
