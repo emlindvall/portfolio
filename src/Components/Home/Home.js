@@ -10,7 +10,6 @@ import textEmLindvall from '../../assets/text-em-lindvall.png';
 import './Home.css';
 
 const Home = () => {
-
   return (
     <div className="home-container">
       <div className="home-top-container">
@@ -23,7 +22,9 @@ const Home = () => {
       </div>
       <About/>
       <Story1/>
+      <Experience/>
       <Story2/>
+      <Portfolio/>
       <Story3/>
       <Contact/>
     </div>

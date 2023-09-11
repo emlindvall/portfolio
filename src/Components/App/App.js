@@ -8,7 +8,6 @@ import Footer from '../Footer/Footer';
 import './App.css';
 
 const App = () => {
-
   return (
     <div className="display-container">
         <ScrollToHashElement/>

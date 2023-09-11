@@ -7,6 +7,7 @@ const AcquiredTaste = () => {
 
   return (
     <div className="acquiredtaste-container">
+      <p>Pardon the dust! This page is still in progress.</p>
       <NavLink to="/">
         <img className="at-button-back" src={atButtonBack}></img>
       </NavLink>

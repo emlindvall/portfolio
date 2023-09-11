@@ -8,7 +8,7 @@ import './Contact.css';
 const Contact = () => {
 
   return (
-    <div className="contact-container">
+    <div className="contact-container" id="contact">
       <p className="contact-header">Let's <img className="text-connect" src={textConnect}/>.</p>
       <div className="email-container">
           <img className="email-icon" src={iconEmail}/>

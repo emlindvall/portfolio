@@ -1,0 +1,74 @@
+@import "react-alice-carousel/lib/alice-carousel.css";
+
+.experience-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 35vh 5vw 0vh 5vw;
+  color: #F8F8F8;
+}
+
+.experience-header  {
+  width: 60vw;
+  margin: 0px 0vw 15px 25vw;
+  text-align: right;
+  font-size: 3em;
+  font-weight: 200;
+  color: #F8F8F8;
+  line-height: 95%;
+}
+
+.text-cultural-ed {
+  height: 42px;
+}
+
+.ex-img  {
+  border: 15px transparent solid;
+  margin: 15px;
+  cursor: pointer; 
+  transition: all .5s ease-in-out;
+  -webkit-filter: grayscale(100%);
+      -moz-filter: grayscale(100%);
+        -o-filter: grayscale(100%);
+        -ms-filter: grayscale(100%);
+            filter: grayscale(100%); 
+}
+
+.ex-img:hover {
+  transition: all .5s ease-in-out;
+  -webkit-filter: grayscale(0%);
+      -moz-filter: grayscale(0%);
+        -o-filter: grayscale(0%);
+        -ms-filter: grayscale(0%);
+            filter: grayscale(0%); 
+}
+
+.ex-text-container  {
+  width: 280px;
+  margin-left: 15px;
+  border: 15px transparent solid;
+}
+
+.ex-header  {
+  margin: 0px 0px 0px 0px;
+  font-size: 1.5em;
+  font-weight: 300;
+  color: #F8F8F8;
+  line-height: 95%;
+}
+
+.ex-subheader {
+  margin: 5px 0px 0px 0px;
+  font-size: 1em;
+  font-weight: 100;
+  color: #F8F8F8;
+  line-height: 95%;
+}
+
+.ex-description {
+  width: 255px;
+  margin: 25px 0px 10px 0px;
+  font-size: 0.85em;
+  font-weight: 100;
+  color: #F8F8F8;
+}

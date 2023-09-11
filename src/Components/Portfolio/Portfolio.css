@@ -1,0 +1,20 @@
+.portfolio-header  {
+  width: 60vw;
+  margin: 0px 0vw 15px 0vw;
+  text-align: left;
+  font-size: 3em;
+  font-weight: 200;
+  color: #F8F8F8;
+  line-height: 95%;
+}
+
+.text-front-dev {
+  height: 42px;
+}
+
+.proj-link-text  {
+  margin-right: 15px;
+  font-size: 0.85em;
+  font-weight: 200;
+  color: #F8F8F8;
+}

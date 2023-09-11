@@ -3,5 +3,5 @@ body {
   font-family: 'DM Sans', sans-serif;
   background-image: url('./assets/background.png');
   background-size: cover;
-  height: 800vh;
+  height: fit-content;
 }
