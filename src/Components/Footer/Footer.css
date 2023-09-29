@@ -13,7 +13,6 @@
   .footer-container {
     justify-content: flex-start;
     gap: 10%;
-    border: 1px cyan solid;
   }
 
   #mobile-hide  {
