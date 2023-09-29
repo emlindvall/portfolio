@@ -132,11 +132,10 @@
     justify-content: flex-start;
     width: 100%;
   }
-  
 
   .text-at  {
     margin-top: 15px;
-    width: 60vw;
+    width: 85%;
   }
 
   .at-description {
