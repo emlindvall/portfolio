@@ -48,7 +48,7 @@ const Footer = () => {
             <NavLink to="#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">PORTFOLIO</p>
             </NavLink>
-            <NavLink to="#top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">BACK / TOP</p>
             </NavLink>
           </div>
