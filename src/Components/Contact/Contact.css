@@ -9,7 +9,7 @@
 }
 
 .contact-header {
-  margin: 20px 0px 15px 0px;
+  margin: 20px 0px 0px 0px;
   font-size: 3em;
   font-weight: 200;
   color: #F8F8F8;
@@ -35,6 +35,7 @@
   align-items: center;
   gap: 15px;
   margin-top: 25px;
+  margin-bottom: 15vh;
 }
 
 .link-icon {

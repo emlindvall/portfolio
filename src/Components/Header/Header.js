@@ -23,7 +23,7 @@ const Header = () => {
       </div>
       <div className="header-subcontainer">
         <div className="header-at-container">
-          <NavLink to="/acquired-taste" id="link" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+          <NavLink to="/acquired-taste#at-top" id="link" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-id">Acquired Taste</p>
         </NavLink>
           <img className="header-logo-at"src={logoAt}></img>
@@ -36,18 +36,18 @@ const Header = () => {
         <p className="header-id">Navigation</p>
         <div className="nav-container">
           <div className="nav-subcontainer">
-            <Link to="#about" smooth={true} style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <Link to="/#about" smooth={true} style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text" id="link">ABOUT EM</p>
             </Link>
-            <NavLink to="#experience" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#experience" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text" id="link">EXPERIENCE</p>
             </NavLink>
           </div>
           <div className="nav-subcontainer" id="right">
-            <NavLink to="#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text" id="link">PORTFOLIO</p>
             </NavLink>
-            <NavLink to="#contact" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#contact" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text" id="link">CONTACT</p>
             </NavLink>
           </div>

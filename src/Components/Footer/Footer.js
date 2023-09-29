@@ -24,12 +24,12 @@ const Footer = () => {
       </div>
       <div className="header-subcontainer">
         <div className="header-at-container">
-          <NavLink to="/acquired-taste" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+          <NavLink to="#at-top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-id">Acquired Taste</p>
         </NavLink>
           <img className="header-logo-at"src={logoAt}></img>
         </div>
-        <NavLink to="/acquired-taste" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+        <NavLink to="/acquired-taste#at-top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-text">01. I'M DESPERATELY TRYING TO IMPRESS YOU</p>
         </NavLink>
       </div>
@@ -37,15 +37,15 @@ const Footer = () => {
         <p className="header-id">Navigation</p>
         <div className="nav-container">
           <div className="nav-subcontainer">
-            <NavLink to="#about" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#about" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">ABOUT EM</p>
             </NavLink>
-            <NavLink to="#experience" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#experience" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">EXPERIENCE</p>
             </NavLink>
           </div>
           <div className="nav-subcontainer" id="right">
-            <NavLink to="#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+            <NavLink to="/#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">PORTFOLIO</p>
             </NavLink>
             <NavLink to="/#top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>

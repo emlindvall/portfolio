@@ -9,7 +9,7 @@ import './AcquiredTaste.css';
 const AcquiredTaste = () => {
 
   return (
-    <div className="acquiredtaste-container">
+    <div className="acquiredtaste-container" id="at-top">
       <div className="at-top-container">
         <img className="text-at" src={textAt}/>
         <p className="at-description">Acquired Taste is a weekly playlist curated by Em Lindvall. It's guaranteed to up your street cred at your local hipster dive. </p>
