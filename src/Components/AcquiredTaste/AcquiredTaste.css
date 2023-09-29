@@ -121,3 +121,55 @@
 #smaller  {
   font-size: .9em;
 }
+
+@media (max-width: 600px) {
+  .text-at  {
+    margin-top: 15px;
+    width: 60vw;
+  }
+
+  .at-bottom-container  {
+    display: flex;
+    flex-direction: column;
+  }
+
+  .at-bottom-left-container {
+    width: 80%;
+    padding-left: 25px;
+  }
+
+  .at-bottom-right-container  {
+    width: 80%;
+    padding-left: 25px;
+    height: fit-content;
+  }
+
+  .track-title-container  {
+    /* border: 1px orange solid; */
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    margin: 10px 0px 0px 0px;
+  }
+  
+  .track-num, .track-title, .track-artist  {
+    margin: 0px;
+  }
+
+  .track-num, .track-title  {
+    font-size: 1.25em;
+  }
+
+  .track-artist  {
+    font-size: .85em;
+    margin-bottom: 10px;
+  }
+
+  .track-description  {
+    text-align: left;
+  }
+
+  #mobile-hide  {
+    display: none;
+  }
+}
