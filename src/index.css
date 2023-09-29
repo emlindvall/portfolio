@@ -5,3 +5,12 @@ body {
   background-size: cover;
   height: fit-content;
 }
+
+@media (max-width: 600px) {
+  body {
+    background-image: url('./assets/mobile-background.png');
+    background-size: 600px;
+    background-repeat: no-repeat;
+    background-color: #000000;
+  }
+}

@@ -8,3 +8,12 @@
   font-size: .85em;
   border-top: 1px #383838 solid;
 }
+
+@media (max-width: 600px) {
+  .footer-subcontainer  {
+    width: 30%; 
+  }
+  #mobile-hide  {
+    display: none;
+  }
+}

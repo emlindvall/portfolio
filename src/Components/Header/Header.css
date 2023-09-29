@@ -48,3 +48,12 @@
 .header-logo-at {
   height: 12px;
 }
+
+@media (max-width: 600px) {
+  .header-subcontainer  {
+    width: 30%; 
+  }
+  #mobile-hide  {
+    display: none;
+  }
+}

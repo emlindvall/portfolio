@@ -1,3 +1,9 @@
 .display-container  { 
   margin: 6vh 2vw 5vh 2vw;
 }
+
+@media (max-width: 600px) {
+  .display-container {
+    margin: 3vh 3vw 3vh 3vw;
+  }
+}

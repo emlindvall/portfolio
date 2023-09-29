@@ -53,3 +53,11 @@
   color: #F8F8F8;
 }
 
+@media (max-width: 600px) {
+  .contact-container  {
+    margin-top: 35vh;
+    width: 75vw;
+    align-items: center;
+  }
+}
+

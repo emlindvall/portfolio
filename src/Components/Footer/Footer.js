@@ -7,14 +7,14 @@ const Footer = () => {
 
   return (
     <div className="footer-container">
-      <div className="header-subcontainer">
+      <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Name</p>
         <NavLink to="/" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-text">Em Lindvall</p>
         </NavLink>
         <p className="header-text">CST/GMT -5(6:30pm, USA)</p>
       </div>
-      <div className="header-subcontainer">
+      <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
         <p className="header-text">CURRENTLY AVAILABLE FOR FREELANCE PROJECTS</p>
       </div>

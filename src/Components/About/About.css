@@ -37,7 +37,7 @@
   font-size: 0.85em;
   font-weight: 200;
   font-weight: 200;
-  color: #9B9B9B;
+  color: #909090;
 }
 
 .about-right  {
@@ -46,4 +46,34 @@
 
 .about-logo-at  {
   height: 12px;
+}
+
+@media (max-width: 600px) {
+  .about-container  {
+    padding-top: 50px;
+    margin-top: 85vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 50px;
+  }
+
+  .png-em {
+    height: 250px;
+    width: 250px;
+  }
+
+  .about-right  {
+    text-align: center;
+  }
+
+  .about-header {
+    font-size: 1.75em;
+  }
+
+  .text-em  {
+    height: 25px;
+  }
 }

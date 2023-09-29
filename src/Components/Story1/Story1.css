@@ -3,7 +3,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
-  margin-top: 35vh;
+  margin-top: 30vh;
   color: #F8F8F8;
 }
 
@@ -20,4 +20,18 @@
   width: 48vw;
   margin: 0;
   font-weight: 200;
+  color: #909090;
+}
+
+@media (max-width: 600px) {
+  .story-container {
+    margin-top: 35vh;
+  }
+
+  .story-header {
+    font-size: 1.75em;
+  }
+  .story-text {
+    width: 70vw;
+  }
 }
