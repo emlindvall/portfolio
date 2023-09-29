@@ -23,8 +23,6 @@
 }
 
 .ex-img  {
-  border: 15px transparent solid;
-  margin: 15px;
   cursor: pointer; 
   transition: all .5s ease-in-out;
   -webkit-filter: grayscale(100%);
@@ -70,15 +68,17 @@
   margin: 25px 0px 10px 0px;
   font-size: 0.85em;
   font-weight: 100;
-  /* color: #F8F8F8; */
   color: #909090;
+}
+
+.alice-carousel {
+  align-self: center;
 }
 
 @media (max-width: 600px) {
   .experience-container {
     margin-top: 35vh;
     align-items: center;
-    margin: 35vh 5vw 0vh 5vw;
   }
 
   .experience-header {
@@ -98,18 +98,18 @@
     text-align: center;
   }
 
-  .ex-header  {
-    text-align: center;
+  .ex-text-container  {
+    width: 280px;
+    margin-left: 0px;
+    border: 15px transparent solid;
   }
 
   .ex-subheader {
-    text-align: center;
-    margin: 10px 0px 0px 0px;
+    margin-top: 10px;
   }
 
   .ex-description {
-    width: 300px;
-    text-align: center;
+    width: 250px;
     font-size: 0.9em;
   }
 }

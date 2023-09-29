@@ -55,7 +55,7 @@
 
 @media (max-width: 600px) {
   .contact-container  {
-    margin-top: 35vh;
+    margin: 35vh 0vw 0vh 0vw;
     width: 90vw;
     align-items: center;
   }
