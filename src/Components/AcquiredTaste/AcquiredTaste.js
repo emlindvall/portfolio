@@ -12,7 +12,7 @@ const AcquiredTaste = () => {
     <div className="acquiredtaste-container" id="at-top">
       <div className="at-top-container">
         <img className="text-at" src={textAt}/>
-        <p className="at-description">Acquired Taste is a weekly playlist curated by Em Lindvall. It's guaranteed to up your street cred at your local hipster dive. </p>
+        <p className="at-description">Acquired Taste is a weekly playlist curated by Em Lindvall. It's guaranteed to up your street cred at your local hipster dive or your money back, which doesn't mean much since I couldn't monetize this if I tried. </p>
         <div className="at-links-container">
           <div clasName="links-subcontainer">
             <img className="link-icon" src={iconMail}/>
@@ -27,7 +27,7 @@ const AcquiredTaste = () => {
       <div className="at-bottom-container">
         <div className="at-bottom-left-container">
           <p className="at-playlist-header">01. I'm desperately trying to impress you</p>
-          <p className="at-playlist-description">Hi, kids. Welcome to Acquired Taste, an unremarkable music newsletter where I tell you what I’m listening to this week. In the grand scheme of things, I’m just a minuscule speck of dust and sweat floating in an infinite, gorgeous universe, but in my tiny sphere of influence, I’m generally trusted with the aux. Generally, I don’t really care what you think of me as long as you think I have good music taste. Here are 15 songs from my music-snob arsenal for when I want to make a good impression:</p>
+          <p className="at-playlist-description">Hi, kids. Welcome to Acquired Taste, an unremarkable music newsletter where I tell you what I’m listening to this week. In the grand scheme of things, I’m just a minuscule speck of dust and anxious sweat floating in an infinite, gorgeous cosmos, but in my tiny sphere of influence, I’m generally trusted with the aux. 99% of the time, I don’t really care what you think of me as long as you think I have good music taste. Here are 15 songs from my music-snob arsenal for when I want to make a good impression:</p>
           <iframe className="playlist-embed" style={{ borderRadius: '12px' }} src="https://open.spotify.com/embed/playlist/7JmlcpwMHMYs4s71z3vPSV?utm_source=generator&theme=0" width="100%" height="352" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
         </div>
         <div className="at-bottom-right-container">
