@@ -77,12 +77,11 @@
 
 @media (max-width: 600px) {
   .alice-carousel {
-    align-self: center;
     text-align: center;
   }
 
   .experience-container {
-    margin-top: 35vh;
+    margin: 35vh 0vw 0vh 0vw;
     align-items: center;
   }
 
@@ -104,7 +103,7 @@
   }
 
   .ex-text-container  {
-    width: 280px;
+    width: 275px;
     margin-left: 0px;
   }
 
@@ -113,7 +112,6 @@
   }
 
   .ex-description {
-    width: 250px;
     font-size: 0.9em;
   }
 }
