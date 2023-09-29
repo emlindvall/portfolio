@@ -6,7 +6,6 @@
   justify-content: flex-start;
   margin: 35vh 5vw 0vh 5vw;
   color: #F8F8F8;
-  border: 1px cyan solid;
 }
 
 .experience-header  {
@@ -77,6 +76,11 @@
 }
 
 @media (max-width: 600px) {
+  .alice-carousel {
+    align-self: center;
+    text-align: center;
+  }
+
   .experience-container {
     margin-top: 35vh;
     align-items: center;
@@ -102,7 +106,6 @@
   .ex-text-container  {
     width: 280px;
     margin-left: 0px;
-    border: 15px transparent solid;
   }
 
   .ex-subheader {
