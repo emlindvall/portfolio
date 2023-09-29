@@ -36,14 +36,14 @@ const AcquiredTaste = () => {
             <p className="track-title">Blackrock "Yeah, Yeah"</p>
             <p className="track-artist">by Blackrock</p>
           </div>
-          <p className="track-description">If I had a walk-up song it would be Harry Nilsson’s Jump Into the Fire, but if that song was taken, this one would be my runner-up. Blackrock was apparently a short-lived collaboration of two session musicians, recorded in Memphis in the 60s. There’s also a persistent rumor that Jay-Z recorded a track that samples this one, but it’s never been released. Give the people what they want!</p>
+          <p className="track-description">If I had a walk-out song it would be Harry Nilsson’s Jump Into the Fire, but if that song was taken, I'd choose this one. Blackrock was apparently a short-lived collaboration of two session musicians, recorded in Memphis in the 60s. There’s also a persistent rumor that Jay-Z recorded a track that samples this one, but it’s never been released. Give the people what they want!</p>
 
           <div className="track-title-container">
             <p className="track-num">01.2</p>
             <p className="track-title">Stone Coal White</p>
             <p className="track-artist">by Stone Coal White</p>
           </div>
-          <p className="track-description">I don’t know anything about Stone Coal White other than that this album was re-released by Numero Group in 2011, and that they claim the original was “found in the basement of a now-condemned motorcycle gang hideout in Dayton, Ohio”. Which, sure. I certainly want to believe that.</p>
+          <p className="track-description">I don’t know anything about Stone Coal White other than that this album was re-released by Numero Group in 2011, and that they claim the original copy was “found in the basement of a now-condemned motorcycle gang hideout in Dayton, Ohio”. Which, sure. I certainly want to believe that.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.3</p>
@@ -63,7 +63,7 @@ const AcquiredTaste = () => {
             <p className="track-title">Paint it Black</p>
             <p className="track-artist">by Africa</p>
           </div>
-          <p className="track-description">This is a grimy, sort of sinister cover of the Stones song featuring quite a few people just straight-up screaming in the background. It's grimy and a little polyrythmic and it's so, so much better than the original, just trust me.</p>
+          <p className="track-description">This is a grimy, borderline-sinister cover of the Stones song featuring quite a few people just straight-up screaming in the background. It's grimy and a little polyrythmic and it's so, so much better than the original, just trust me.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.6</p>
@@ -77,7 +77,7 @@ const AcquiredTaste = () => {
             <p className="track-title">Can You Get To That</p>
             <p className="track-artist">by Funkadelic</p>
           </div>
-          <p className="track-description">I'm a firm believer that all playlists should include at least one Funkadelic, Parliament, and or Parliament Funkadelic track in order to be considered good or complete.</p>
+          <p className="track-description">I'm a firm believer that all playlists should include at least one Funkadelic, Parliament, and or Parliament Funkadelic track in order to be considered good or even complete.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.8</p>
@@ -103,14 +103,14 @@ const AcquiredTaste = () => {
             <p className="track-title">Is It All Over My Face & Tower of Meaning</p>
             <p className="track-artist">by Blood Orange</p>
           </div>
-          <p className="track-description">This song is nasty and so, so good. I really, really love the audible string noise on the bass when it comes in around 2:10. The backbone of this track is a sample of a song by the same name by a disco group called Loose Joints, and it's also worth checking out- racous and messy and incredible. It's also worth noting that this track was produced by Arthur Russell, whom I love, and is mostly known for being a very gentle indie musician who favors the cello.</p>
+          <p className="track-description">This track is legitimately nasty and so, so good. I really, really love the audible string noise on the bass when it comes in around 2:10. The backbone here is a sample of a song by the same name by a disco group called Loose Joints, which is also worth checking out- it's racous and messy and incredible. It's also worth noting that this track was produced by Arthur Russell, whom I love, and is mostly known for being a very gentle indie musician who favors the cello.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.12</p>
             <p className="track-title">The Complete Knock</p>
             <p className="track-artist">by Blood Orange</p>
           </div>
-          <p className="track-description">My fever dream is going cratedigging with Devonte Hynes</p>
+          <p className="track-description">My queer fever dream is going cratedigging with Devonte Hynes</p>
 
           <div className="track-title-container">
             <p className="track-num">01.13</p>
@@ -123,14 +123,14 @@ const AcquiredTaste = () => {
             <p className="track-title">Darling</p>
             <p className="track-artist">by Esbe</p>
           </div>
-          <p className="track-description">This is a truly masterful rework of a fairly lukewarm Bobby Caldwell song, and I actually do mean it when I say it's one of the most gorgeous songs I've ever heard. Sorry!</p>
+          <p className="track-description">This is a truly masterful rework of a fairly lukewarm Bobby Caldwell song, and I actually do mean it when I say it's one of the most gorgeous tracks I've ever heard. Sorry!</p>
 
           <div className="track-title-container">
             <p className="track-num">01.15</p>
             <p className="track-title">Easy Rider</p>
             <p className="track-artist">by Action Bronson</p>
           </div>
-          <p className="track-description">I really like Action Bronson! I'm not apologizing. "Rocking very loose pants" is an incredible lyric and very relatable. The sample here is a very, very cool psych-rock track called Adımız Miskindir Bizim by a Turkish artist, Mazhar Ve Fuat. It once came up on a deep-cuts world music playlist and I could not shazam that shit fast enough.</p>
+          <p className="track-description">I really like Action Bronson! I'm not apologizing. "Rocking very loose pants" is an incredible lyric and very relatable. The sample here is a very, very cool psych-rock track called Adımız Miskindir Bizim by a Turkish artist, Mazhar Ve Fuat. It once came up on a playlist at a Turkish cafe in Denver and I could not shazam that shit fast enough.</p>
 
         </div>
       </div>
