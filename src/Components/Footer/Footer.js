@@ -5,6 +5,10 @@ import './Footer.css';
 
 const Footer = () => {
 
+  var date = new Date();
+  var time = date.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })
+
+
   return (
     <div className="footer-container">
       <div className="header-subcontainer" id="mobile-hide">
@@ -12,7 +16,7 @@ const Footer = () => {
         <NavLink to="/" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-text">Em Lindvall</p>
         </NavLink>
-        <p className="header-text">CST/GMT -5(6:30pm, USA)</p>
+        <p className="header-text">CST/GMT -5 ({time})</p>
       </div>
       <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
