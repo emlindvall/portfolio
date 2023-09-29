@@ -5,6 +5,9 @@ import './Header.css';
 
 const Header = () => {
 
+  var date = new Date();
+  var time = date.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })
+
   return (
     <div className="header-container">
       <div className="header-subcontainer" id="mobile-hide">
@@ -12,7 +15,7 @@ const Header = () => {
         <NavLink to="/" style={{textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-text" id="link">Em Lindvall</p>
         </NavLink>
-        <p className="header-text">CST/GMT -5(6:30pm, USA)</p>
+        <p className="header-text">CST/GMT -5 ({time}, USA)</p>
       </div>
       <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
