@@ -52,13 +52,12 @@
 @media (max-width: 600px) {
   .header-container {
     justify-content: flex-start;
-    gap: 18%;
+    gap: 16%;
   }
 
   .header-subcontainer  {
     width: 35%; 
     min-width: 150px;
-    border: 1px red solid;
   }
 
   #mobile-hide  {
