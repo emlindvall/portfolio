@@ -63,7 +63,7 @@ const AcquiredTaste = () => {
             <p className="track-title">Paint it Black</p>
             <p className="track-artist">by Africa</p>
           </div>
-          <p className="track-description">This is a grimy, borderline-sinister cover of the Stones song featuring quite a few people just straight-up screaming in the background. It's grimy and a little polyrythmic and it's so, so much better than the original, just trust me.</p>
+          <p className="track-description">This is a grimy, borderline-sinister cover of the Stones song featuring quite a few people just straight-up screaming in the background. It's grungy and a little polyrythmic and it's so, so much better than the original, just trust me.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.6</p>
