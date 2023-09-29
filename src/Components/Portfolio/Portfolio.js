@@ -103,7 +103,7 @@ const Portfolio = () => {
 
   return (
     <div className="experience-container" id="portfolio">
-      <p className="portfolio-header">So I also became a <img className="text-front-dev" src={textFrontDev}/>.</p>
+      <p className="portfolio-header">Which is why I'm also a <img className="text-front-dev" src={textFrontDev}/>.</p>
       <AliceCarousel 
       className="carousel"
       items={items}

@@ -1,18 +1,118 @@
 .acquiredtaste-container  {
+  /* border: 1px red solid; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
   align-items: center;
+  background-image: url('../../assets/at-background.png');
+  background-size: cover;
+}
+
+.at-top-container  {
+  /* border: 1px cyan solid; */
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  width: 100%;
+  padding-left: 50px;
+}
+
+.text-at  {
+  margin-top: 15px;
+  width: 30vw;
+}
+
+.at-description {
+  width: 400px;
+  font-size: 0.85em;
+  font-weight: 200;
+  color: #F8F8F8;
+  margin: 5px 0px 10px 0px;
+}
+
+.at-links-container  {
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  gap: 15px;
+  margin-bottom: 25px;
+}
+
+.at-bottom-container  {
+  /* border: 1px purple solid; */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-start;
+  align-items: left;
+  gap: 4%;
+  margin-bottom: 50px;
+}
+
+.at-bottom-left-container {
+  /* border: 1px fuchsia solid; */
+  width: 48%;
+  padding-left: 25px;
+}
+
+.at-playlist-header  {
+  font-size: 1.5em;
+  font-weight: 200;
+  color: #F8F8F8;
+  margin: 0px 0px 0px 0px;
+}
+
+.at-playlist-description  {
+  font-size: 0.85em;
+  font-weight: 200;
+  color: #909090;
+}
+
+.at-bottom-right-container  {
+  /* border: 1px yellow solid; */
+  width: 48%;
+  margin-right: 5px;
+  padding-right: 15px;
+  height: 65vh;
+  overflow: scroll;
+}
+
+.track-title-container  {
+  /* border: 1px orange solid; */
+  display: flex;
+  flex-direction: row;
+  justify-content: flex-end;
+  gap: 5px;
+  margin: 0px 0px 0px 0px;
+}
+
+.track-num, .track-title  {
+  font-size: 1.5em;
+  font-weight: 200;
+  color: #F8F8F8;
+  margin: 0px 0px 0px 0px;
+}
+
+.track-title  {
+  font-style: italic;
+  margin-left: 10px;
+}
+
+.track-artist {
+  font-size: 1em;
+  font-weight: 200;
+  color: #F8F8F8;
+  margin: 7px 0px 0px 0px;
+}
+
+.track-description  {
+  margin: 0px 5px 5px 0px;
+  text-align: right;
+  font-size: 0.85em;
+  font-weight: 200;
+  color: #909090;
 }
 
 .at-button-back {
   height: 15px;
   margin-right: 25px;
-}
-
-.dusty-container  {
-  display: flex;
-  flex-direction: row;
-  justify-content: center;
-  align-items: center;
 }
