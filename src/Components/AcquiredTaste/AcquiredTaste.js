@@ -36,7 +36,7 @@ const AcquiredTaste = () => {
             <p className="track-title">Blackrock "Yeah, Yeah"</p>
             <p className="track-artist">by Blackrock</p>
           </div>
-          <p className="track-description">If I had a walk-up song it would be Harry Nilsson’s Jump Into the Fire, but if that song was taken, “Yeah, Yeah“ would be my runner-up. Blackrock was apparently a short-lived collaboration of two session musicians, recorded in Memphis in the 60s. There’s also a persistent rumor that Jay-Z recorded a track that samples this track, but it’s never been released.</p>
+          <p className="track-description">If I had a walk-up song it would be Harry Nilsson’s Jump Into the Fire, but if that song was taken, this one would be my runner-up. Blackrock was apparently a short-lived collaboration of two session musicians, recorded in Memphis in the 60s. There’s also a persistent rumor that Jay-Z recorded a track that samples this one, but it’s never been released. Give the people what they want!</p>
 
           <div className="track-title-container">
             <p className="track-num">01.2</p>
@@ -50,28 +50,87 @@ const AcquiredTaste = () => {
             <p className="track-title">Slow Burner</p>
             <p className="track-artist">by Swithold</p>
           </div>
-          <p className="track-description">Another track courtesy of Numero Group, included on their Eccentric Funk album. Like the previous track, it also came out of Dayton and appropriately straddles the line between rock, funk, and disco. Liza Richardson, if you’re reading this, it’s also begging to be used in a soundtrack.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.4</p>
             <p className="track-title">Hard Times</p>
             <p className="track-artist">by Baby Huey</p>
           </div>
-          <p className="track-description">Baby Huey really should be more famous than he is. If you like Curtis Mayfield, Otis Redding, or Charles Bradley, this will also do it for you. Plus this track starts with the juciest little Soul Bossa Nova flute trill, as a treat. PS, if you have an original pressing of this album, please call me.</p>
+          <p className="track-description">Starts out with the juciest little Soul Bossa Nova flute trill, as a treat. P.S., if you have an original pressing of this album, please call me.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.5</p>
             <p className="track-title">Paint it Black</p>
             <p className="track-artist">by Africa</p>
           </div>
-          <p className="track-description">I know nothing about this artist. I only know one thing about this album, and that's that it doesn't skip a beat top to bottom. Imagine the Rolling Stones track but way more sinister, good and grungy, and just a touch polyrythmic. Plus it's one of those tracks where you can hear the band just straight up whooping and hollering in the background, which I love.</p>
+          <p className="track-description">This is a grimy, sort of sinister cover of the Stones song featuring quite a few people just straight-up screaming in the background. It's grimy and a little polyrythmic and it's so, so much better than the original, just trust me.</p>
 
           <div className="track-title-container">
             <p className="track-num">01.6</p>
             <p className="track-title">Man From Shooter's Hill</p>
-            <p className="track-artist">by Keith Mansfield, The Soul Syndicate</p>
+            <p className="track-artist">by Keith Mansfield & The Soul Syndicate</p>
           </div>
-          <p className="track-description">So you probably know the Hugh Masakela version better, but hear me out. This one sounds like somebody recorded it on the very hottest day of the year in a garage with equipment they bought on eBay. It fucks.</p>
+          <p className="track-description">So you probably know the Hugh Masakela version better, but hear me out- this one sounds like somebody recorded it on the hottest day of the year in an un-airconditioned garage with secondhand equipment they bought off eBay, and it fucks.</p>
+
+          <div className="track-title-container">
+            <p className="track-num">01.7</p>
+            <p className="track-title">Can You Get To That</p>
+            <p className="track-artist">by Funkadelic</p>
+          </div>
+          <p className="track-description">I'm a firm believer that all playlists should include at least one Funkadelic, Parliament, and or Parliament Funkadelic track in order to be considered good or complete.</p>
+
+          <div className="track-title-container">
+            <p className="track-num">01.8</p>
+            <p className="track-title">Dion Ysiusk</p>
+            <p className="track-artist">by Yin Yin</p>
+          </div>
+
+          <div className="track-title-container">
+            <p className="track-num">01.9</p>
+            <p className="track-title">Autopsie d'un complot</p>
+            <p className="track-artist">by Ahmad Malek</p>
+          </div>
+          <p className="track-description">Quite possibly my favorite song of all time. It's disgustingly funky. Ahmed Malek was an Algerian composer, working mostly in the 70s and 80s on scoring soundtracks. He's got a lot of bangers, but this one's the best. The title translates into "Autopsy of a conspiracy", which is also rad as hell.</p>
+
+          <div className="track-title-container">
+            <p className="track-num">01.10</p>
+            <p className="track-title">Could Heaven Ever Be Like This</p>
+            <p className="track-artist">by Idris Muhammad</p>
+          </div>
+
+          <div className="track-title-container">
+            <p className="track-num">01.11</p>
+            <p className="track-title">Is It All Over My Face & Tower of Meaning</p>
+            <p className="track-artist">by Blood Orange</p>
+          </div>
+          <p className="track-description">This song is nasty and so, so good. I really, really love the audible string noise on the bass when it comes in around 2:10. The backbone of this track is a sample of a song by the same name by a disco group called Loose Joints, and it's also worth checking out- racous and messy and incredible. It's also worth noting that this track was produced by Arthur Russell, whom I love, and is mostly known for being a very gentle indie musician who favors the cello.</p>
+
+          <div className="track-title-container">
+            <p className="track-num">01.12</p>
+            <p className="track-title">The Complete Knock</p>
+            <p className="track-artist">by Blood Orange</p>
+          </div>
+          <p className="track-description">My fever dream is going cratedigging with Devonte Hynes</p>
+
+          <div className="track-title-container">
+            <p className="track-num">01.13</p>
+            <p className="track-title">Soon Never Comes</p>
+            <p className="track-artist">by Stimulator Jones</p>
+          </div>
+
+          <div className="track-title-container">
+            <p className="track-num">01.14</p>
+            <p className="track-title">Darling</p>
+            <p className="track-artist">by Esbe</p>
+          </div>
+          <p className="track-description">This is a truly masterful rework of a fairly lukewarm Bobby Caldwell song, and I actually do mean it when I say it's one of the most gorgeous songs I've ever heard. Sorry!</p>
+
+          <div className="track-title-container">
+            <p className="track-num">01.15</p>
+            <p className="track-title">Easy Rider</p>
+            <p className="track-artist">by Action Bronson</p>
+          </div>
+          <p className="track-description">I really like Action Bronson! I'm not apologizing. "Rocking very loose pants" is an incredible lyric and very relatable. The sample here is a very, very cool psych-rock track called Adımız Miskindir Bizim by a Turkish artist, Mazhar Ve Fuat. It once came up on a deep-cuts world music playlist and I could not shazam that shit fast enough.</p>
 
         </div>
       </div>

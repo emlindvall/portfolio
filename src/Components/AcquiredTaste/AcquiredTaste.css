@@ -82,7 +82,7 @@
   flex-direction: row;
   justify-content: flex-end;
   gap: 5px;
-  margin: 0px 0px 0px 0px;
+  margin: 10px 0px 0px 0px;
 }
 
 .track-num, .track-title  {
@@ -105,7 +105,7 @@
 }
 
 .track-description  {
-  margin: 0px 5px 5px 0px;
+  margin: 0px 5px 0px 0px;
   text-align: right;
   font-size: 0.85em;
   font-weight: 200;
@@ -115,4 +115,9 @@
 .at-button-back {
   height: 15px;
   margin-right: 25px;
+  margin-bottom: 25px;
+}
+
+#smaller  {
+  font-size: .9em;
 }
