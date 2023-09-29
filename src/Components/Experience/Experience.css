@@ -97,21 +97,31 @@
   }
 
   .ex-item  {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
     align-items: center;
     align-content: center;
     text-align: center;
   }
 
-  .ex-text-container  {
-    width: 275px;
-    margin-left: 0px;
+  .ex-header  {
+    margin: 5px 0px 0px 0px;
   }
+  
 
   .ex-subheader {
     margin-top: 10px;
   }
 
+  .ex-text-container  {
+    width: 275px;
+    margin-left: 0px;
+    border: none;
+  }
+
   .ex-description {
+    max-width: 270px;
     font-size: 0.9em;
   }
 }

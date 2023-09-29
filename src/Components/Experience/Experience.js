@@ -66,7 +66,7 @@ const items = [
     <div className="ex-text-container">
       <p className="ex-header">The Jamestown Yorktown Foundation</p>
       <p className="ex-subheader">Museum Educator 2016-2017</p>
-      <p className="ex-description">While working for the Jamestown-Yorktown Foundation, I helped to develop and lead educational programs for adults, students, and summer campers at Jamestown Settlement and Yorktown Battlefield living history museums. In particular, I supported the launch of a brand-new selection of programming at the new American Revolution Museum at Yorktown, which opened during my time in this role. I have especially happy memories of showing students how to fire matchlock muskets (no bullets!), raising sails on the Susan Constant, and herding heritage chickens out of the Jamestown church.</p>
+      <p className="ex-description">While working for the Jamestown-Yorktown Foundation, I helped to develop and lead educational programs for adults, students, and summer campers at Jamestown Settlement and brand-new Yorktown Battlefield living history museums. I have especially happy memories of showing students how to fire matchlock muskets (no bullets!), raising sails on the Susan Constant, and herding heritage chickens out of the Jamestown church.</p>
     </div>
   </div>,
   <div className="ex-item">

@@ -44,6 +44,10 @@
   text-align: right;
 }
 
+.about-right-subcontainer {
+  width: 65vw;
+}
+
 .about-logo-at  {
   height: 12px;
 }
