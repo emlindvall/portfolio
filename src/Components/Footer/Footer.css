@@ -10,8 +10,14 @@
 }
 
 @media (max-width: 600px) {
+  .footer-container {
+    justify-content: flex-start;
+    gap: 35%;
+  }
+
   .footer-subcontainer  {
-    width: 30%; 
+    justify-content: flex-start;
+    gap: 35%;
   }
   #mobile-hide  {
     display: none;

@@ -50,9 +50,15 @@
 }
 
 @media (max-width: 600px) {
-  .header-subcontainer  {
-    width: 30%; 
+  .header-container {
+    justify-content: flex-start;
+    gap: 35%;
   }
+  
+  .header-subcontainer  {
+    width: 35%; 
+  }
+
   #mobile-hide  {
     display: none;
   }
