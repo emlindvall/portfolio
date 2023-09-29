@@ -16,7 +16,7 @@ const AcquiredTaste = () => {
         <div className="at-links-container">
           <div clasName="links-subcontainer">
             <img className="link-icon" src={iconMail}/>
-            <Link to="https://www.linkedin.com/in/emlindvall/"  className="link-text" style={{textDecoration: 'none', color: "#F8F8F8"}}>Get it delivered</Link>
+            <Link to="https://media.istockphoto.com/id/91520053/photo/senior-man-shrugging-shoulders.jpg?s=612x612&w=is&k=20&c=7H7yOTxL1eywmWu-dQQMy7zz55-dOjKjrGhNIGuEPxw="  className="link-text" style={{textDecoration: 'none', color: "#F8F8F8"}}>Get it delivered</Link>
           </div>
           <div clasName="links-subcontainer">
             <img className="link-icon" src={iconSpotify}/>
