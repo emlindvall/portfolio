@@ -12,7 +12,7 @@
 @media (max-width: 600px) {
   .footer-container {
     justify-content: flex-start;
-    gap: 25%;
+    gap: 20%;
   }
 
   .footer-subcontainer  {
