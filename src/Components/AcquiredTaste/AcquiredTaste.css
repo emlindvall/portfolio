@@ -1,5 +1,4 @@
 .acquiredtaste-container  {
-  /* border: 1px red solid; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -9,7 +8,6 @@
 }
 
 .at-top-container  {
-  /* border: 1px cyan solid; */
   display: flex;
   flex-direction: column;
   justify-content: flex-start;
@@ -123,9 +121,26 @@
 }
 
 @media (max-width: 600px) {
+  .acquiredtaste-container  {
+  width: 95%;
+  padding-left: 10px;
+  }
+
+  .at-top-container  {
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-start;
+    width: 100%;
+  }
+  
+
   .text-at  {
     margin-top: 15px;
     width: 60vw;
+  }
+
+  .at-description {
+    width: 75%;
   }
 
   .at-bottom-container  {
@@ -134,7 +149,7 @@
   }
 
   .at-bottom-left-container {
-    width: 80%;
+    width: 87%;
     padding-left: 25px;
   }
 
@@ -145,7 +160,6 @@
   }
 
   .track-title-container  {
-    /* border: 1px orange solid; */
     display: flex;
     flex-direction: column;
     justify-content: flex-start;
