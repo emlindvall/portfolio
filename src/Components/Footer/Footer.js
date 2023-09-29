@@ -16,7 +16,7 @@ const Footer = () => {
         <NavLink to="/" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-text">Em Lindvall</p>
         </NavLink>
-        <p className="header-text">CST/GMT -5 ({time})</p>
+        <p className="header-text">CST / GMT -5 ({time})</p>
       </div>
       <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
@@ -49,7 +49,7 @@ const Footer = () => {
               <p className="header-text">PORTFOLIO</p>
             </NavLink>
             <NavLink to="#top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
-              <p className="header-text">BACK TO TOP</p>
+              <p className="header-text">BACK / TOP</p>
             </NavLink>
           </div>
         </div>

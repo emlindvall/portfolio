@@ -15,7 +15,7 @@ const Header = () => {
         <NavLink to="/" style={{textDecoration: 'none', color: "#F8F8F8"}}>
           <p className="header-text" id="link">Em Lindvall</p>
         </NavLink>
-        <p className="header-text">CST/GMT -5 ({time}, USA)</p>
+        <p className="header-text">CST / GMT -5 ({time}, USA)</p>
       </div>
       <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
