@@ -52,7 +52,7 @@
 @media (max-width: 600px) {
   .header-container {
     justify-content: flex-start;
-    gap: 30%;
+    gap: 25%;
   }
 
   .header-subcontainer  {

@@ -12,12 +12,11 @@
 @media (max-width: 600px) {
   .footer-container {
     justify-content: flex-start;
-    gap: 30%;
+    gap: 25%;
   }
 
   .footer-subcontainer  {
     justify-content: flex-start;
-    gap: 35%;
   }
   #mobile-hide  {
     display: none;
