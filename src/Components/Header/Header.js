@@ -19,7 +19,7 @@ const Header = () => {
       </div>
       <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
-        <p className="header-text">CURRENTLY AVAILABLE FOR FREELANCE PROJECTS</p>
+        <p className="header-text">Technical Producer @ <br></br><Link to="https://www.artic.edu/" style={{textDecoration: 'none', color: "#F8F8F8"}}>THE ART INSTITUTE OF CHICAGO</Link></p>
       </div>
       <div className="header-subcontainer">
         <div className="header-at-container">

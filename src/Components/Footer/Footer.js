@@ -1,5 +1,5 @@
-import React, { useState, useEffect } from 'react';
-import { NavLink } from 'react-router-dom';
+import React from 'react';
+import { NavLink, Link } from 'react-router-dom';
 import logoAt from '../../assets/logo-at.png';
 import './Footer.css';
 
@@ -16,7 +16,7 @@ const Footer = () => {
       </div>
       <div className="header-subcontainer" id="mobile-hide">
         <p className="header-id">Status</p>
-        <p className="header-text">CURRENTLY AVAILABLE FOR FREELANCE PROJECTS</p>
+        <p className="header-text">Technical Producer @ <br></br><Link to="https://www.artic.edu/" style={{textDecoration: 'none', color: "#F8F8F8"}}>THE ART INSTITUTE OF CHICAGO</Link></p>
       </div>
       <div className="header-subcontainer">
         <div className="header-at-container">
@@ -44,8 +44,8 @@ const Footer = () => {
             <NavLink to="#portfolio" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
               <p className="header-text">PORTFOLIO</p>
             </NavLink>
-            <NavLink to="#contact" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
-              <p className="header-text">CONTACT</p>
+            <NavLink to="#top" style={{ textDecoration: 'none', color: "#F8F8F8"}}>
+              <p className="header-text">BACK TO TOP</p>
             </NavLink>
           </div>
         </div>

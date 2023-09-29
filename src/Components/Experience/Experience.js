@@ -50,7 +50,7 @@ const items = [
     <div className="ex-text-container" id="hidden">
       <p className="ex-header">Kirkland Museum of Fine & Decorative Art</p>
       <p className="ex-subheader">Visitor Services Lead 2017-2020</p>
-      <p className="ex-description">At the Kirkland Museum, I helped to facilitate an excellent visitor experience by overseeing the sale of tickets, memberships, and souvenirs. I also helped to define the museum's visitor tour programs after it's reopening in 2017, as well as lead both general and specialized tours for visitors and VIPs. I also ran their Facebook and Instagram accounts!</p>
+      <p className="ex-description">At the Kirkland Museum, I helped to facilitate an excellent visitor experience by overseeing the sale of tickets, memberships, and souvenirs. I also helped to define the museum's visitor tour programs after it's reopening in 2017, as well as led both general and specialized tours for visitors and VIPs. I also ran their Facebook and Instagram accounts, helped organize the 2019 Bauhaus Brunch, and sold the new museum's very first ticket!</p>
     </div>
   </div>,
   <div className="ex-item">
@@ -58,7 +58,7 @@ const items = [
     <div className="ex-text-container" id="hidden">
       <p className="ex-header">Dzhungar Mountain Archaeology Project</p>
       <p className="ex-subheader">Field Tech 2017</p>
-      <p className="ex-description">I spent the summer of 2017 working as an archaeological field tech in rural Kazakhstan, along the Dzhungarian Alatau Mountain range near the Chinese border. It was an incredible opportunity to help shed light on a bronze age cemetary, assisting with excavation, data entry, and surveying alongside seasoned professionals in bioanthropology and paleogenetics. I also got to hang out with a lot of local herders, make friends with quite a few wild horses, and go without internet or cell service for two months straight.</p>
+      <p className="ex-description">I spent the summer of 2017 working as an archaeological field tech in rural Kazakhstan, along the Dzhungarian Alatau Mountain range near the Chinese border. It was an incredible opportunity to help shed light on a bronze age cemetary, assisting with excavation, data entry, and surveying alongside seasoned professionals in bioanthropology and paleogenetics. I also got to hang out with a lot of local herders, made friends with quite a few wild horses, and went without internet or cell service for two months straight.</p>
     </div>
   </div>,
   <div className="ex-item">
@@ -74,7 +74,7 @@ const items = [
     <div className="ex-text-container" id="hidden">
       <p className="ex-header">The Swedish American Museum</p>
       <p className="ex-subheader">Intern 2016</p>
-      <p className="ex-description">During the summer of 2016, I interned at the Swedish American Museum, helping primarily to organize and teach their Pioneer the World summercamp programs. I was also able to help out their curatorial staff as-needed, including for the install of Skål!, a very fun special exhibit focusing on snaps and Swedish drinking culture.</p>
+      <p className="ex-description">During the summer of 2016, I interned at the Swedish American Museum, helping primarily to organize and teach their Pioneer the World summer camp programs. I was also able to help out their curatorial staff as-needed, including for the install of Skål!, a very fun special exhibit focusing on snaps and Swedish drinking culture.</p>
     </div>
   </div>
 ];

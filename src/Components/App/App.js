@@ -9,7 +9,7 @@ import './App.css';
 
 const App = () => {
   return (
-    <div className="display-container">
+    <div className="display-container" id="top">
         <ScrollToHashElement/>
         <Header/>
         <Routes>
