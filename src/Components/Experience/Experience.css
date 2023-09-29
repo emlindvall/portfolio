@@ -6,6 +6,7 @@
   justify-content: flex-start;
   margin: 35vh 5vw 0vh 5vw;
   color: #F8F8F8;
+  border: 1px cyan solid;
 }
 
 .experience-header  {
