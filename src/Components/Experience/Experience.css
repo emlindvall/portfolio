@@ -109,7 +109,6 @@
     margin: 15px 0px 0px 0px;
   }
   
-
   .ex-subheader {
     margin-top: 10px;
   }
@@ -123,5 +122,13 @@
   .ex-description {
     max-width: 270px;
     font-size: 1em;
+  }
+
+  .ex-description {
+    width: 255px;
+    margin: 25px 0px 10px 0px;
+    font-size: 0.85em;
+    font-weight: 200;
+    color: #b0b0b0;
   }
 }
