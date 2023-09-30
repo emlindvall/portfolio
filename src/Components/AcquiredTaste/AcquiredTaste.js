@@ -36,7 +36,7 @@ const AcquiredTaste = () => {
             <p className="track-title">Blackrock "Yeah, Yeah"</p>
             <p className="track-artist">by Blackrock</p>
           </div>
-          <p className="track-description">If I had a walk-out song it would be Harry Nilsson’s Jump Into the Fire, but if that song was taken, I'd choose this one. Blackrock was apparently a short-lived collaboration of two session musicians, recorded in Memphis in the 60s. There’s also a persistent rumor that Jay-Z recorded a track that samples this one, but it’s never been released. Give the people what they want!</p>
+          <p className="track-description">If I had a walkout song it would be Harry Nilsson’s "Jump Into the Fire", but if that song was taken, I'd choose this one. Blackrock was apparently a short-lived collaboration of two session musicians, recorded in Memphis in the 60s. There’s also a persistent rumor that Jay-Z recorded a track that samples this one, but it’s never been released. Give the people what they want!</p>
 
           <div className="track-title-container">
             <p className="track-num">01.2</p>
@@ -130,7 +130,7 @@ const AcquiredTaste = () => {
             <p className="track-title">Easy Rider</p>
             <p className="track-artist">by Action Bronson</p>
           </div>
-          <p className="track-description">I really like Action Bronson! I'm not apologizing. "Rocking very loose pants" is an incredible lyric and very relatable. The sample here is a very, very cool psych-rock track called Adımız Miskindir Bizim by a Turkish artist, Mazhar Ve Fuat. It once came up on a playlist at a Turkish cafe in Denver and I could not shazam that shit fast enough.</p>
+          <p className="track-description">I really like Action Bronson! I'm not apologizing. "Rocking very loose pants" is an incredible lyric and very relatable. The sample here is a very, very cool psych-rock track called "Adımız Miskindir Bizim" by a Turkish artist, Mazhar Ve Fuat. It once came up on a playlist at a Turkish cafe in Colorado and I could not shazam that shit fast enough.</p>
 
         </div>
       </div>
