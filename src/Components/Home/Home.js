@@ -14,7 +14,7 @@ const Home = () => {
     <div className="home-container">
       <div className="home-top-container">
         <div className="home-header-container">
-          <p className="home-header">My name is <img className="text-em-lindvall" src={textEmLindvall}></img>.<br></br> I'm a <span style={{ fontWeight: '300', color: "#000000"}}>frontend dev & museum professional</span> based in Chicago, Illinois.</p>
+          <p className="home-header">My name is <img className="text-em-lindvall" src={textEmLindvall}></img>.<br></br> I'm a <span style={{ fontWeight: '300', color: "#252525"}}>frontend dev & museum professional</span> based in Chicago, Illinois.</p>
         </div>
         <div className="home-description-container">
           <p className="home-description">I’m a tech-focused museum professional with  ten years of experience working for cultural institutions. I’ve always been especially passionate about leveraging technology to help make cultural education relevant, approachable, and enjoyable for learners of all backgrounds.</p>
