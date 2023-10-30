@@ -25,7 +25,7 @@ const Contact = () => {
         </div>
         <div clasName="links-subcontainer">
           <img className="link-icon" src={iconLink}/>
-          <Link to="https://drive.google.com/file/d/1vnuLFBSH7vvPOrc4xU1kO5z0n4XcUZwt/view?usp=sharing"  className="link-text" style={{textDecoration: 'none', color: "#F8F8F8"}}>Resume</Link>
+          <Link to="https://drive.google.com/file/d/1WmVSTo-q9Dp3sWCf0Orlatzc6IbTxfEv/view?usp=sharing"  className="link-text" style={{textDecoration: 'none', color: "#F8F8F8"}}>Resume</Link>
         </div>
       </div>
     </div>
